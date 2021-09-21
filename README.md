@@ -3,7 +3,18 @@
 DanFranCiscoさんのMaypole Braiding Machineを研究室の環境に合わせてリミックスしました。  
 （DanFranCisco, Maypole Braiding Machine, https://cults3d.com/en/3d-model/gadget/maypole-braiding-machine, 20210922閲覧）
 
+
+### 紹介
+Braiding Machine (Braiderとも) は、ブレード（スリーブ）を編む機械です。  
+ブレードはコードをまとめるネットなどに使われ、一部の3Dプリンタのコードはブレードでまとめられています。  
+
+研究でブレードを作る必要が生じたためため、作成・改造を始めました。  
+
 ※ライセンスの都合でリミックスモデルは載せていません
+
+
+https://user-images.githubusercontent.com/74394828/134202028-e461e6af-670c-4318-9b4b-2402353ed478.mp4
+
 
 ### 変更点
 ・駆動モータにDME44S6HPAを使用し、ギヤボックスを外しダイレクトドライブで駆動させた（3アンペア供給）  
